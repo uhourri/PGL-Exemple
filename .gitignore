@@ -5,4 +5,7 @@
 build
 
 # Ignore OS files
-.DS_Store
+**/.DS_Store
+
+# Ignore Intellij project-specific cache directory
+.idea
